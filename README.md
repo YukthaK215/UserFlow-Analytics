@@ -116,33 +116,33 @@ Business insights generated using DuckDB SQL.
 
 # 📷 Project Screenshots
 
-## Monthly Revenue Trend
+## Top Viewed Producds
 
-![Monthly Revenue](images/revenue_trend.png)
-
----
-
-## Revenue by Product Category
-
-![Category Revenue](images/category_revenue.png)
+![top viewed products](images/top_viewed_products.png)
 
 ---
 
-## Top Purchased Products
+## Top Products
 
-![Top Products](images/top_products.png)
-
----
-
-## Customer Segmentation
-
-![Customer Segments](images/customer_segments.png)
+![top products](images/top_products.png)
 
 ---
 
-## User Conversion Funnel
+## Top Cities
 
-![Funnel Analysis](images/funnel_analysis.png)
+![Top cities](images/top_cities.png)
+
+---
+
+## Top Brands
+
+![top_brands](images/top_brands.png)
+
+---
+
+## Dropoff Analysis
+
+![Dropoff Analysis](images/dropoff_analysis.png)
 
 ---
 
